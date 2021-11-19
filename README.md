@@ -1,4 +1,4 @@
-Hi, I’m @DRIMMIIX
+Hi, I’m @DRIMIIX
 you'll find some projects...
 enjoy
 
