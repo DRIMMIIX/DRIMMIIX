@@ -1,6 +1,5 @@
 Hi, I’m @DRIMIIX and
-you'll find some projects...
-enjoy
+i code in my freetime
 
 <!---
 DRIMMIIX/DRIMMIIX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
