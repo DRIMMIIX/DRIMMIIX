@@ -17,4 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimmiix&show_icons=true&theme=tokyonight&locale=en" alt="drimmiix" /></p>
 
-![]([https://tenor.com/bBXMD.gif](https://tenor.com/bBXMD.gif)https://tenor.com/bBXMD.gif)
+![gif]([relative/path/to/animation.gif](https://tenor.com/bBXMD.gif)https://tenor.com/bBXMD.gif)
+
