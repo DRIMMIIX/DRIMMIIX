@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [[this github](https://github.com/DRIMMIIX)]
 
-- ⚡ Fun fact **[I am banana]**
+- ⚡ Fun fact **I am banana**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
