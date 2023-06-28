@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available at [[this github](https://github.com/DRIMMIIX)](this github)
 
 - ⚡ Fun fact **I am banana**
 
