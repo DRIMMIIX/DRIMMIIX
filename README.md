@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm DRIMIIX</h1>
 <h3 align="center">A hobby developer from Europe</h3>
 
-- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [this github](this github)
+- 👨‍💻 All of my projects are available at [[this github](https://github.com/DRIMMIIX)]
 
-- ⚡ Fun fact **I am banana**
+- ⚡ Fun fact **[I am banana]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drimmiix&show_icons=true&theme=cobalt&title_color=008f99&text_color=0bb1da&bg_color=000000&locale=en&layout=compact" alt="drimmiix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimmiix&show_icons=true&theme=cobalt&text_color=005ec2&bg_color=2d0141&locale=en" alt="drimmiix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimmiix&show_icons=true&theme=cobalt&title_color=008f99&text_color=0bb1da&bg_color=000000&locale=en" alt="drimmiix" /></p>
