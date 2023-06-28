@@ -2,9 +2,9 @@
 <h3 align="center">A hobby developer from Europe</h3>
 
 
-- 👨‍💻 All of my projects are available at [[this github](https://github.com/DRIMMIIX)](this github)
+- 👨‍💻 All of my projects are available at [[this github](https://github.com/DRIMMIIX)]
 
-- ⚡ Fun fact **I am banana**
+- ⚡ Fun fact **I am a chair**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimmiix&show_icons=true&theme=tokyonight&locale=en" alt="drimmiix" /></p>
 
-![](https://tenor.com/bBXMD.gif)
+![]([https://tenor.com/bBXMD.gif](https://tenor.com/bBXMD.gif)https://tenor.com/bBXMD.gif)
