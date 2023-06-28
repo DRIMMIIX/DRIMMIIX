@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DRIMIIX</h1>
 <h3 align="center">A hobby developer from Europe</h3>
 
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [[this github](https://github.com/DRIMMIIX)](this github)
 
@@ -17,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drimmiix&show_icons=true&theme=tokyonight&title_color=000000&locale=en&layout=compact" alt="drimmiix" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimmiix&show_icons=true&theme=tokyonight&locale=en" alt="drimmiix" /></p>
+
+![](https://tenor.com/bBXMD.gif)
